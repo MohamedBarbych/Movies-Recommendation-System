@@ -1,6 +1,6 @@
 # Movie Recommendation System 🎬
 
-A machine learning-based movie recommendation system that suggests personalized movie choices to users based on their preferences. The system features user authentication, movie ratings, and tailored recommendations using collaborative filtering and content-based algorithms. ( TEST)
+A machine learning-based movie recommendation system that suggests personalized movie choices to users based on their preferences. The system features user authentication, movie ratings, and tailored recommendations using collaborative filtering and content-based algorithms. (TEST)
 
 ---
 
@@ -8,7 +8,7 @@ A machine learning-based movie recommendation system that suggests personalized 
 
 - 🤖 **Machine Learning Algorithms**: Utilizes collaborative filtering and content-based algorithms for accurate recommendations.
 - 🔒 **User Authentication**: Secure login system for users to personalize their movie experience.
-- ⭐ **Movie Ratings**: Users can rate movies, enhancing the quality of the recommendations.
+- ⭐ **Movie Ratings**: Users can rate movies, enhancing the quality of the recommendations. 
 - 🎥 **Tailored Recommendations**: Personalized movie suggestions based on user preferences and ratings.
 
 ---

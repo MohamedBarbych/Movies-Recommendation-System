@@ -20,7 +20,7 @@ A machine learning-based movie recommendation system that suggests personalized 
 - **Data Processing**: Pandas, NumPy  
 - **Machine Learning**: Scikit-learn  
 
----
+---                    
 
 ## 🛠️ Installation and Setup
 

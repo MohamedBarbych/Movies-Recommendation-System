@@ -16,7 +16,7 @@ A machine learning-based movie recommendation system that suggests personalized 
 ## 🛠️ Tech Stack
 
 - **Programming Language**: Python  
-- **Web Framework**: Streamlit  
+- **Web Framework**: Streamlit     
 - **Data Processing**: Pandas, NumPy  
 - **Machine Learning**: Scikit-learn  
 

@@ -2,7 +2,7 @@
 
 A machine learning-based movie recommendation system that suggests personalized movie choices to users based on their preferences. The system features user authentication, movie ratings, and tailored recommendations using collaborative filtering and content-based algorithms. (TEST)
 
----
+---                      
 
 ## 🚀 Features
 
@@ -30,3 +30,4 @@ git clone https://github.com/your-username/movie-recommendation-system.git
 cd movie-recommendation-system
                   
                       
+                 

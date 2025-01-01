@@ -18,7 +18,7 @@ A machine learning-based movie recommendation system that suggests personalized 
 - **Programming Language**: Python  
 - **Web Framework**: Streamlit     
 - **Data Processing**: Pandas, NumPy  
-- **Machine Learning**: Scikit-learn  
+- **Machine Learning**: Scikit-learn               
           
 ---                    
 
@@ -29,3 +29,4 @@ A machine learning-based movie recommendation system that suggests personalized 
 git clone https://github.com/your-username/movie-recommendation-system.git
 cd movie-recommendation-system
                   
+                      

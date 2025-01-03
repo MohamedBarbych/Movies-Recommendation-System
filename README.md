@@ -11,7 +11,7 @@ A machine learning-based movie recommendation system that suggests personalized 
 - ⭐ **Movie Ratings**: Users can rate movies, enhancing the quality of the recommendations. 
 - 🎥 **Tailored Recommendations**: Personalized movie suggestions based on user preferences and ratings.
 
----
+---                  
 
 ## 🛠️ Tech Stack
 
